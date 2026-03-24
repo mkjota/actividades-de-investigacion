@@ -10,11 +10,7 @@ Este proyecto forma parte de mi formación como **Desarrollador Full Stack Java*
 ## 📝 Aprendizajes clave
 * Diferenciación entre etiquetas de bloque y de línea.
 * Implementación de tablas con `<thead>` y `<tbody>`.
-* Gestión de repositorios remotos mediante comandos de terminal (Git Bash).
-
-## 🚀 Despliegue
-Puedes ver la versión web de este CV aquí: 
-[INSERTAR AQUÍ TU LINK DE GITHUB PAGES]
+* Gestión de repositorios remotos mediante comandos de terminal (Git Bash)
 
 ---
 *Desarrollado por Julio Alexis Oyarzun - 2026*
